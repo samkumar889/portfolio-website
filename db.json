@@ -1,0 +1,66 @@
+{
+  "messages": [],
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce Platform",
+      "description": "Full-stack e-commerce solution with React, Node.js, and MongoDB",
+      "tech": ["React", "Node.js", "MongoDB", "Express"],
+      "image": "https://via.placeholder.com/400x250/6366f1/ffffff?text=E-Commerce",
+      "github": "https://github.com",
+      "live": "https://example.com"
+    },
+    {
+      "id": 2,
+      "title": "Task Management App",
+      "description": "Real-time task management with team collaboration features",
+      "tech": ["React", "Firebase", "Tailwind CSS"],
+      "image": "https://via.placeholder.com/400x250/8b5cf6/ffffff?text=Task+App",
+      "github": "https://github.com",
+      "live": "https://example.com"
+    },
+    {
+      "id": 3,
+      "title": "Social Media Dashboard",
+      "description": "Analytics dashboard with real-time data visualization",
+      "tech": ["React", "D3.js", "Node.js", "PostgreSQL"],
+      "image": "https://via.placeholder.com/400x250/ec4899/ffffff?text=Dashboard",
+      "github": "https://github.com",
+      "live": "https://example.com"
+    },
+    {
+      "id": 4,
+      "title": "Weather Application",
+      "description": "Real-time weather forecasting with location-based services",
+      "tech": ["React", "OpenWeather API", "CSS3"],
+      "image": "https://via.placeholder.com/400x250/06b6d4/ffffff?text=Weather+App",
+      "github": "https://github.com",
+      "live": "https://example.com"
+    },
+    {
+      "id": 5,
+      "title": "Blog Platform",
+      "description": "Full-featured blog platform with CMS capabilities",
+      "tech": ["Next.js", "MongoDB", "Tailwind CSS"],
+      "image": "https://via.placeholder.com/400x250/10b981/ffffff?text=Blog+Platform",
+      "github": "https://github.com",
+      "live": "https://example.com"
+    },
+    {
+      "id": 6,
+      "title": "Chat Application",
+      "description": "Real-time messaging app with WebSocket integration",
+      "tech": ["React", "Socket.io", "Node.js", "Express"],
+      "image": "https://via.placeholder.com/400x250/f59e0b/ffffff?text=Chat+App",
+      "github": "https://github.com",
+      "live": "https://example.com"
+    }
+  ],
+  "skills": [
+    { "category": "Frontend", "items": ["React.js", "JavaScript", "TypeScript", "HTML5", "CSS3", "Tailwind CSS", "Redux"] },
+    { "category": "Backend", "items": ["Node.js", "Express.js", "Python", "REST APIs", "GraphQL"] },
+    { "category": "Database", "items": ["MongoDB", "PostgreSQL", "MySQL", "Firebase"] },
+    { "category": "Tools", "items": ["Git", "Docker", "VS Code", "Postman", "npm"] },
+    { "category": "Other", "items": ["Responsive Design", "Agile", "Problem Solving", "Team Leadership"] }
+  ]
+}
